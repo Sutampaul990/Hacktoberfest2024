@@ -1,5 +1,3 @@
-// Radix sort Java implementation
-
 import java.io.*;
 import java.util.*;
 
